@@ -50,3 +50,16 @@ The script produces a JSON file with this structure:
 - More robust handling of edge cases
 - Unit tests
 - Support for multiple sheets
+
+## Recent Improvements
+
+The converter was refactored to improve performance and data usability:
+
+- Optimized merged cell handling using precomputed lookup map
+- Improved JSON structure for analytics-friendly consumption
+- Removed redundant Excel-style row processing
+- Enhanced date parsing and normalization
+- Reduced runtime complexity for large spreadsheets
+- Improved maintainability with cleaner separation of logic
+
+This version is designed to support downstream use cases such as dashboards, APIs, and LLM-based querying.
