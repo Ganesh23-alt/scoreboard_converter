@@ -1,0 +1,1476 @@
+{
+  "sheet_name": "SCOREBOARD",
+  "generated_at": "2026-05-07T10:29:43",
+  "metrics": [
+    {
+      "metric_key": "total_revenue_all_services",
+      "display_name": "Total Revenue \n- All Services",
+      "focus": "Financial",
+      "source": "EMR",
+      "role": "J",
+      "target": "`",
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 40454.28
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 42360.64
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 39202.17
+        }
+      ]
+    },
+    {
+      "metric_key": "total_payments_all_services",
+      "display_name": "Total Payments - All Services",
+      "focus": "Collection",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 48464.61
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 34022.04
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 40068.6
+        }
+      ]
+    },
+    {
+      "metric_key": "revenue_collected_4_wk_avg",
+      "display_name": "Revenue Collected (4 wk avg)",
+      "focus": "Collection",
+      "source": "Ratio",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 1.0
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 0.91
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 1.02
+        }
+      ]
+    },
+    {
+      "metric_key": "ar_90_days",
+      "display_name": "AR > 90 days",
+      "focus": "Collection",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 0.0
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 182.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 60.0
+        }
+      ]
+    },
+    {
+      "metric_key": "total_ar",
+      "display_name": "Total AR",
+      "focus": "Collection",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 56578.43
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 65386.72
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 57239.65
+        }
+      ]
+    },
+    {
+      "metric_key": "online_bookings_via_jane",
+      "display_name": "Online Bookings Via Jane",
+      "focus": "Bookings",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 36.0
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 45.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 43.0
+        }
+      ]
+    },
+    {
+      "metric_key": "total_ax_all_services",
+      "display_name": "Total Ax \n- All Services",
+      "focus": "Marketing",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 42.0
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 54.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 56.0
+        }
+      ]
+    },
+    {
+      "metric_key": "ax_4_week_avg",
+      "display_name": "Ax 4 Week Avg",
+      "focus": "Marketing",
+      "source": "GS",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 50.67
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 55
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 56
+        }
+      ]
+    },
+    {
+      "metric_key": "of_rx_clinic_wide",
+      "display_name": "# of Rx (Clinic Wide)",
+      "focus": "Caseload",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 377
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 377
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 340
+        }
+      ]
+    },
+    {
+      "metric_key": "clinic_pva",
+      "display_name": "Clinic PVA",
+      "focus": null,
+      "source": null,
+      "role": null,
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 7.44
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 6.85
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 6.07
+        }
+      ]
+    },
+    {
+      "metric_key": "submitted",
+      "display_name": "Submitted",
+      "focus": "Treatment Plan",
+      "source": "Jane",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 498.0
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 669.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 599.0
+        }
+      ]
+    },
+    {
+      "metric_key": "unsubmitted",
+      "display_name": "Unsubmitted",
+      "focus": "Treatment Plan",
+      "source": "Jane",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 100.0
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 129.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 44.0
+        }
+      ]
+    },
+    {
+      "metric_key": "cancelled_total_ax",
+      "display_name": "Cancelled \n Total Ax",
+      "focus": "New Clients",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 14.0
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 8.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 9.0
+        }
+      ]
+    },
+    {
+      "metric_key": "cancelled_ax_online",
+      "display_name": "Cancelled \nAx (Online)",
+      "focus": "Online",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 0.0
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 0.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "metric_key": "cancelled_ax_online",
+      "display_name": "Cancelled Ax Online %",
+      "focus": "Online",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 0.0
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 0.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "metric_key": "cancellation",
+      "display_name": "Cancellation %",
+      "focus": "Caseload",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 0.17
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 0.11
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "metric_key": "of_fall_offs_total",
+      "display_name": "# of Fall Offs\n(Total)",
+      "focus": "Caseload",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 113.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 103.0
+        }
+      ]
+    },
+    {
+      "metric_key": "fb_reviews",
+      "display_name": "FB Reviews",
+      "focus": "Marketing",
+      "source": "Facebook",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 0.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "metric_key": "google_reviews",
+      "display_name": "Google Reviews",
+      "focus": "Marketing",
+      "source": "Google",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 1227.0
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 1224.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 1217.0
+        }
+      ]
+    },
+    {
+      "metric_key": "total_calls_5530",
+      "display_name": "Total Calls (5530)",
+      "focus": "Phone",
+      "source": "CallHero",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 255.0
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 281.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 282.0
+        }
+      ]
+    },
+    {
+      "metric_key": "missed_calls",
+      "display_name": "Missed Calls",
+      "focus": "Phone",
+      "source": "CallHero",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 17.0
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 15.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 16.0
+        }
+      ]
+    },
+    {
+      "metric_key": "answer_rate",
+      "display_name": "Answer Rate",
+      "focus": "Answer",
+      "source": "CallHero",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 0.93
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 0.94
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 0.94
+        }
+      ]
+    },
+    {
+      "metric_key": "booking_rate",
+      "display_name": "Booking Rate",
+      "focus": "Book",
+      "source": "CallHero",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 0.69
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 0.73
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 0.78
+        }
+      ]
+    },
+    {
+      "metric_key": "nbo",
+      "display_name": "NBO",
+      "focus": "Phone",
+      "source": "CallHero",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 26.0
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 26.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 33.0
+        }
+      ]
+    },
+    {
+      "metric_key": "dnb",
+      "display_name": "DNB",
+      "focus": "Phone",
+      "source": "CallHero",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 8.0
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 7.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 7.0
+        }
+      ]
+    },
+    {
+      "metric_key": "winback_ax_only",
+      "display_name": "Winback (Ax Only)",
+      "focus": "Phone",
+      "source": "CallHero",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 0.0
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 0.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 2.0
+        }
+      ]
+    },
+    {
+      "metric_key": "nar_collected_at_ax",
+      "display_name": "NAR Collected at Ax",
+      "focus": "Tx Plan",
+      "source": "NAR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 39.0
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 56.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 56.0
+        }
+      ]
+    },
+    {
+      "metric_key": "nar_collected_at_ax",
+      "display_name": "NAR % Collected at Ax",
+      "focus": "Tx Plan",
+      "source": "Formula",
+      "role": "J",
+      "target": "100% Target",
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 0.93
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 1.04
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "metric_key": "average_prescribed",
+      "display_name": "Average \nPrescribed",
+      "focus": "Tx Plan",
+      "source": "NAR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": "2.87"
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": "3.26"
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": "3.35"
+        }
+      ]
+    },
+    {
+      "metric_key": "booked_prescribed_total",
+      "display_name": "Booked:Prescribed % \n(Total)",
+      "focus": "Tx Plan",
+      "source": "Formula",
+      "role": "J",
+      "target": "Target = 75%",
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 0.54
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 0.54
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 0.53
+        }
+      ]
+    },
+    {
+      "metric_key": "of_tx_plan_given",
+      "display_name": "# of Tx Plan Given",
+      "focus": "Tx Plan",
+      "source": "NAR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 20.0
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 30.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 38.0
+        }
+      ]
+    },
+    {
+      "metric_key": "tx_plan_used",
+      "display_name": "% Tx Plan Used",
+      "focus": "Tx Plan",
+      "source": "NAR",
+      "role": "J",
+      "target": "Target = 80%",
+      "data": [
+        {
+          "date": "2026-02-16 00:00:00",
+          "value": 0.48
+        },
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 0.56
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 0.68
+        }
+      ]
+    },
+    {
+      "metric_key": "pt_total_revenue",
+      "display_name": "PT Total Revenue",
+      "focus": "Financial",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 36099.38
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 30394.0
+        }
+      ]
+    },
+    {
+      "metric_key": "pt_ax",
+      "display_name": "PT Ax",
+      "focus": "Marketing",
+      "source": "EMR",
+      "role": "J",
+      "target": "Formula",
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 47.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 45.0
+        }
+      ]
+    },
+    {
+      "metric_key": "pt_tx",
+      "display_name": "PT Tx",
+      "focus": "Commitment",
+      "source": "EMR",
+      "role": "J",
+      "target": 426,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 319
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 273
+        }
+      ]
+    },
+    {
+      "metric_key": "pt_ahs_ax",
+      "display_name": "PT AHS Ax",
+      "focus": "AHS",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 10.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 11.0
+        }
+      ]
+    },
+    {
+      "metric_key": "of_total_ax_ahs",
+      "display_name": "% of Total Ax (AHS)",
+      "focus": "AHS",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 0.21
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 0.24
+        }
+      ]
+    },
+    {
+      "metric_key": "pt_ahs_tx_total",
+      "display_name": "PT AHS Tx (Total)",
+      "focus": "AHS",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 37.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 37.0
+        }
+      ]
+    },
+    {
+      "metric_key": "pt_ahs_ax_hip_knee_class",
+      "display_name": "PT AHS \nAx (Hip&Knee Class)",
+      "focus": "AHS",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 5.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 2.0
+        }
+      ]
+    },
+    {
+      "metric_key": "pt_ahs_tx_hip_knee_class",
+      "display_name": "PT AHS Tx (Hip&Knee Class)",
+      "focus": "AHS",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 5.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 6.0
+        }
+      ]
+    },
+    {
+      "metric_key": "pva_4_wk_avg",
+      "display_name": "PVA \n(4 wk avg)",
+      "focus": "Commitment",
+      "source": "Formula",
+      "role": "J",
+      "target": 213,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 6.43
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 6.07
+        }
+      ]
+    },
+    {
+      "metric_key": "pt_total_available_hours_total",
+      "display_name": "PT Total Available Hours \n(Total)",
+      "focus": "Caseload",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 290.25
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 273.5
+        }
+      ]
+    },
+    {
+      "metric_key": "pt_total_available_hours_pt_only",
+      "display_name": "PT Total Available Hours \n(PT only)",
+      "focus": "Caseload",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 172.5
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 139.25
+        }
+      ]
+    },
+    {
+      "metric_key": "pt_total_booked_hours",
+      "display_name": "PT Total BOOKED hours",
+      "focus": "Caseload",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 166.75
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 138.0
+        }
+      ]
+    },
+    {
+      "metric_key": "pt_arrived_appts",
+      "display_name": "PT Arrived appts",
+      "focus": "Caseload",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 382.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 329.0
+        }
+      ]
+    },
+    {
+      "metric_key": "utilization_with_kines",
+      "display_name": "Utilization (With Kines)",
+      "focus": "Caseload",
+      "source": "Formula",
+      "role": "J",
+      "target": "Target = 60%",
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 0.57
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 0.5
+        }
+      ]
+    },
+    {
+      "metric_key": "utilization_without_kines",
+      "display_name": "Utilization (Without Kines)",
+      "focus": "Caseload",
+      "source": "Formula",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 0.97
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 0.99
+        }
+      ]
+    },
+    {
+      "metric_key": "pt_tp_given",
+      "display_name": "PT TP Given",
+      "focus": null,
+      "source": null,
+      "role": null,
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 30.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 38.0
+        }
+      ]
+    },
+    {
+      "metric_key": "tp_utilization",
+      "display_name": "TP Utilization",
+      "focus": null,
+      "source": null,
+      "role": null,
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 0.64
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 0.84
+        }
+      ]
+    },
+    {
+      "metric_key": "rmt_total_revenue",
+      "display_name": "RMT Total Revenue",
+      "focus": "Financial",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 355.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 775.5
+        }
+      ]
+    },
+    {
+      "metric_key": "rmt_ax",
+      "display_name": "RMT \nAx",
+      "focus": "Marketing",
+      "source": "EMR",
+      "role": "J",
+      "target": 3062.5,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 1.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 2.0
+        }
+      ]
+    },
+    {
+      "metric_key": "rmt_tx",
+      "display_name": "RMT \nTx",
+      "focus": "Commitment",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 2.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 5.0
+        }
+      ]
+    },
+    {
+      "metric_key": "pva_4_wk_avg",
+      "display_name": "PVA \n(4 wk avg)",
+      "focus": "Commitment",
+      "source": "Formula",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 2.33
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 2.5
+        }
+      ]
+    },
+    {
+      "metric_key": "rmt_hours_available",
+      "display_name": "RMT Hours Available",
+      "focus": "Caseload",
+      "source": "EMR",
+      "role": "J",
+      "target": "Total Available = 32",
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 3.75
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "metric_key": "rmt_booked_hours",
+      "display_name": "RMT BOOKED hours",
+      "focus": "Caseload",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 4.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 8.75
+        }
+      ]
+    },
+    {
+      "metric_key": "rmt_arrived_slots",
+      "display_name": "RMT Arrived slots",
+      "focus": "Commitment",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 3.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 7.0
+        }
+      ]
+    },
+    {
+      "metric_key": "utilization",
+      "display_name": "Utilization",
+      "focus": "Caseload",
+      "source": "Formula",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 1.07
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 1.09
+        }
+      ]
+    },
+    {
+      "metric_key": "rmt_tp_given",
+      "display_name": "RMT TP Given",
+      "focus": null,
+      "source": null,
+      "role": null,
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 0.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "metric_key": "tp_utilization",
+      "display_name": "TP Utilization",
+      "focus": null,
+      "source": null,
+      "role": null,
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 0.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "metric_key": "chiro_total_revenue",
+      "display_name": "CHIRO \nTotal Revenue",
+      "focus": "Financial",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 4458.9
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 5649.9
+        }
+      ]
+    },
+    {
+      "metric_key": "chiro_ax",
+      "display_name": "CHIRO\nAx",
+      "focus": "Marketing",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 4.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 6.0
+        }
+      ]
+    },
+    {
+      "metric_key": "chiro_tx",
+      "display_name": "CHIRO\nTx",
+      "focus": "Commitment",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 48
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 54
+        }
+      ]
+    },
+    {
+      "metric_key": "pva_4_wk_avg",
+      "display_name": "PVA \n(4 wk avg)",
+      "focus": "Commitment",
+      "source": "Formula",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 10.2
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "metric_key": "chiro_hours_available",
+      "display_name": "Chiro Hours Available",
+      "focus": "Caseload",
+      "source": "EMR",
+      "role": "J",
+      "target": "Total Available = 34",
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 28.25
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 35.25
+        }
+      ]
+    },
+    {
+      "metric_key": "chiro_booked_hours",
+      "display_name": "Chiro BOOKED hours",
+      "focus": "Caseload",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 25.25
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 30.75
+        }
+      ]
+    },
+    {
+      "metric_key": "chiro_arrived_slots",
+      "display_name": "CHIRO Arrived slots",
+      "focus": "Commitment",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 55.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 62.0
+        }
+      ]
+    },
+    {
+      "metric_key": "utilization",
+      "display_name": "Utilization",
+      "focus": "Caseload",
+      "source": "Formula",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 0.89
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 0.87
+        }
+      ]
+    },
+    {
+      "metric_key": "chiro_tp_given",
+      "display_name": "CHIRO TP Given",
+      "focus": null,
+      "source": null,
+      "role": null,
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 0.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "metric_key": "tp_utilization",
+      "display_name": "TP Utilization",
+      "focus": null,
+      "source": null,
+      "role": null,
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 0.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 0.0
+        }
+      ]
+    },
+    {
+      "metric_key": "pelvic_health_total_revenue",
+      "display_name": "Pelvic Health\nTotal Revenue",
+      "focus": "Financial",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 2355.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 1215.0
+        }
+      ]
+    },
+    {
+      "metric_key": "pelvic_health_ax",
+      "display_name": "Pelvic Health\nAx",
+      "focus": "Marketing",
+      "source": "EMR",
+      "role": "J",
+      "target": "Target = 1",
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 2.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 4.0
+        }
+      ]
+    },
+    {
+      "metric_key": "pelvic_health_tx",
+      "display_name": "Pelvic Health\nTx",
+      "focus": "Commitment",
+      "source": "EMR",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 17.0
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 6.0
+        }
+      ]
+    },
+    {
+      "metric_key": "pva_4_wk_avg",
+      "display_name": "PVA \n(4 wk avg)",
+      "focus": "Commitment",
+      "source": "Formula",
+      "role": "J",
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 1.5
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": "#REF!"
+        }
+      ]
+    },
+    {
+      "metric_key": "true_pva_average",
+      "display_name": "True PVA Average",
+      "focus": null,
+      "source": null,
+      "role": null,
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 6.52
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 5.93
+        }
+      ]
+    },
+    {
+      "metric_key": "utilization",
+      "display_name": "Utilization",
+      "focus": null,
+      "source": null,
+      "role": null,
+      "target": null,
+      "data": [
+        {
+          "date": "2026-02-09 00:00:00",
+          "value": 0.84
+        },
+        {
+          "date": "2026-02-02 00:00:00",
+          "value": 0.82
+        }
+      ]
+    }
+  ]
+}
